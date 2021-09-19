@@ -1,0 +1,37 @@
+
+h1 {
+    font-weight: bold;
+    color: #ebecec;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    
+}
+
+body {
+    background-color: royalblue;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+p  {
+    color: white;
+    font-size: x-large;
+    text-align:center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: inherit;
+}
+
+a{
+    text-align:center;
+    font-size: x-large;
+}
+
+
+
+
+
+
+
+
+
